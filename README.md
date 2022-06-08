@@ -1,4 +1,4 @@
-### EX NO : 04
+### EX NO : 03
 ### DATE  : 11.04.2022
 # BACK-PROPOGATION---SINGLE-NEURON-
 ## AIM:
